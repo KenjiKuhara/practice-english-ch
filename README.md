@@ -1,2 +1,2 @@
-# practice-english-ch
+# practice-english-chat
 英語学習チャットシステム
